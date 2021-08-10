@@ -1,3 +1,7 @@
+.heading-top{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
 .custom-card{
-    background-color: #c6ffec !important;
+    background-color: #fffbc6 !important;
 }
